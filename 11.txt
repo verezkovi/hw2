@@ -5,6 +5,7 @@
                <title>А. А. Бестужев-Марлинский "Мулла-нур"</title>
             </titleStmt>
             <respStmt>
+	    	<persName>Баженова Елизавета</persName>
                 <resp>Создание TEI документа, выделение в тексте прямой речи</resp>
             </respStmt>
          </fileDesc>
